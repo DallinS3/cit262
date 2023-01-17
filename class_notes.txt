@@ -1,0 +1,19 @@
+DEV-OPS CIT-262
+
+Testing Code happens within three different levels
+    1) Unit Tests
+        Fastest
+        Cheapest
+        Smallest
+        Catches human errors
+    2) Service Tests
+        Slower
+        Take more time to write and run
+        Can be more thorough
+        Integration testing
+    3) UI Tests
+        Expensive
+        Powerful; Tests hundreds of functions
+        Use something like Cypress
+        Takes lots of time to create and run
+        
