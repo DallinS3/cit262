@@ -11,6 +11,7 @@ Testing Code happens within three different levels
         Take more time to write and run
         Can be more thorough
         Integration testing
+        API testing
     3) UI Tests
         Expensive
         Powerful; Tests hundreds of functions
