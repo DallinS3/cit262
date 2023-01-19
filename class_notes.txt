@@ -1,5 +1,6 @@
 DEV-OPS CIT-262
 
+(17 Jan 2023)
 Testing Code happens within three different levels
     1) Unit Tests
         Fastest
@@ -18,3 +19,16 @@ Testing Code happens within three different levels
         Use something like Cypress
         Takes lots of time to create and run
         
+(19 Jan 2023)
+Build Pipeline
+    GitHub
+        git push
+        main branch
+        tributary branches
+        pull requests
+        git merge main
+        git push -u origin "tributary branch"
+    CICD - Continuous Integration Continuous Deployment/Delivery
+        goes to customers/consumers/coworkers
+
+(23 Jan 2023)
