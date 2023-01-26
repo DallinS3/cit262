@@ -31,4 +31,37 @@ Build Pipeline
     CICD - Continuous Integration Continuous Deployment/Delivery
         goes to customers/consumers/coworkers
 
-(24 Jan 2023)
+(26 Jan 2023) Notes:
+    CIT students who understand business structure are so valuable
+        - Solutions with IT problems in a business setting (having good business conversation)
+    People need a tech team that can talk with them (soft skills, problem-solving skills)
+    Being able to work with a team (group teamwork)
+    Within the Cloud = Containerization (application moderation) --> mobility
+    Students should focus on Azure, AWS, etc. (AWS certs)
+        - Cert in AWS is more important than 4yr degree (typically)
+    Marry certs, degree, business skills, etc.
+    Competition is global community -- but soft skills is vital!
+        - Be able to work with people outside of IT
+        - Be able to be a Leader and be fearless (leap in with Faith, courage mentality)
+            >> Especially with an ORANGE Personality (in the Business world):
+                + Be willing to FAIL, and fail hard
+                + Be vulnerable, be experimental & fearless
+                + Be willing to go wherever the future needs to be
+                + Be a trail-blazer, pioneer, future-focused (not to a mental strain personally)
+        - Be good with writing (communicate with business people; don't make people feel dumb, dumb info down)
+    Writing skills are also crucial (propose ideas with 6-page narrative)
+        - Writing so people can understand
+        - Take complex ideas and translate them to simple language in writing format
+    PR FAQ (Press Release Frequently Asked Questions) -- understand it; do it
+    "How is AWS approaching the market and helping customers?"
+        - Optimization
+    Have a skill that relates to something - be able to do something
+        - Be a critical thinker (also have the certs)
+        - Solve problems
+        - Communicate/write how to solve problems
+    Any Cert of AWS is good!
+    Change is either something to fear or to embrace
+        - Involves utilizing foundational skills/knowledge into new concepts/technologies
+    Kindness, Mental Health, etc. are soft skills that are crucial, critical, and key!
+
+(31 Jan 2023)
