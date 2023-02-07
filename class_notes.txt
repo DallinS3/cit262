@@ -64,4 +64,7 @@ Build Pipeline
         - Involves utilizing foundational skills/knowledge into new concepts/technologies
     Kindness, Mental Health, etc. are soft skills that are crucial, critical, and key!
 
-(31 Jan 2023)
+(07 Feb 2023)
+API maintains consistency cross-platforms
+Hygiene factors exist in the business world (taking things for granted)
+DevOps Teams make the "water clean" (the world work with technology)
